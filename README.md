@@ -45,4 +45,4 @@ I'm currently looking for an internship opportunity where I can contribute as a 
 
 - GitHub: [HichamxMahboub](https://github.com/HichamxMahboub)
 - Portfolio: Coming soon
-- LinkedIn: [click-here](https://www.linkedin.com/in/hicham-mahboub-b590082b1/)
+- LinkedIn: [Hicham Mahboub](https://www.linkedin.com/in/hicham-mahboub-b590082b1/)
