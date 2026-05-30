@@ -1,48 +1,68 @@
-# Hi, I'm Hicham Mahboub 👋
+# Hi, I'm Hicham Mahboub
 
-I'm an Information Systems and Digital Transformation Engineering student, focused on building full-stack applications, dashboards, and digital solutions that solve real business problems.
+I'm an Information Systems & Digital Transformation Engineering student looking for a junior full-stack / software engineering internship.
 
-## 🚀 What I do
+I enjoy building practical software projects that connect user interfaces, backend APIs, data workflows, and business needs.
 
-- Full-stack web development with React, Next.js, Node.js, Spring Boot, and Angular
-- Mobile development with React Native / Expo
-- Dashboard and admin panel development
-- REST API design and backend architecture
-- Digital transformation solutions for education, recruitment, and small businesses
-- Docker-based deployment and project documentation
+## What I Build
 
-## 🛠️ Tech Stack
+- Full-stack web applications
+- Dashboards and admin panels
+- Backend APIs
+- Mobile apps
+- Digital transformation tools
 
-**Frontend:** React, Next.js, Angular, TypeScript, JavaScript, Tailwind CSS  
-**Backend:** Spring Boot, Node.js, Express.js  
-**Mobile:** React Native, Expo  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Tools:** Docker, Git, GitHub, Swagger, Firebase, Vercel  
-**Other:** Java, JavaFX, REST APIs, Agile project delivery
+## Tech Stack
 
-## 🌟 Featured Projects
+**Frontend:** React, Next.js, Angular, TypeScript, Tailwind CSS  
+**Backend:** Spring Boot, Node.js, Express.js, REST APIs  
+**Mobile/Desktop:** React Native Expo, Electron, JavaFX  
+**Databases:** MongoDB, PostgreSQL, MySQL, Prisma  
+**Tools:** Git, GitHub, Docker, Swagger, Firebase, Vercel
 
-### Smart Match — Internship & Freelance Matching Platform
-Full-stack platform connecting students, freelancers, recruiters, and companies through offers, applications, profiles, dashboards, notifications, and admin validation.
+## Featured Projects
 
-**Stack:** Spring Boot, MongoDB, Firebase Auth, Angular, React Native, Docker, Kubernetes
+### Portfolio
+Professional portfolio presenting my internship profile, technical skills, and selected full-stack, dashboard, mobile, and digital transformation projects.
 
-### MarketHub — Multi-Vendor Marketplace
-Multi-vendor e-commerce platform with vendor dashboards, product management, orders, payments, reviews, and admin analytics.
+[View portfolio](https://portfolio-prbrwhomy-hichamxmahboubs-projects.vercel.app) · [Repository](https://github.com/HichamxMahboub/hicham-mahboub-portfolio)
 
-**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Stripe Connect, Docker
+### Smart Match
+Internship and freelance matching platform with candidate profiles, recruiter offers, applications, notifications, admin validation, and matching-oriented workflows.
+
+[Repository](https://github.com/HichamxMahboub/Smart-Internship---Freelance-Matching-Platform)
+
+### MarketHub
+Multi-vendor marketplace project with vendor workflows, product management, PostgreSQL data modelling, Stripe Connect, dashboards, and admin analytics.
+
+[Repository](https://github.com/HichamxMahboub/marketplace-hub)
 
 ### Competency Analytics Assistant
-Desktop and web application that helps teachers import competency sheets, analyze student performance, generate charts, and prepare printable reports.
+React/Electron app for importing competency sheets, analyzing student performance, generating charts, and preparing printable reports.
 
-**Stack:** React, TypeScript, Electron, Vite, Tailwind CSS, Vercel
+[Repository](https://github.com/HichamxMahboub/Assistant-Analyse-Competences-v1.0.0)
 
-## 🎯 Currently looking for
+### Social Media Command Center
+Social media management dashboard with scheduling workflows, authentication, analytics, MongoDB data storage, and secure API structure.
 
-I'm currently looking for an internship opportunity where I can contribute as a junior full-stack developer and grow in software engineering, web development, and digital transformation projects.
+[Repository](https://github.com/HichamxMahboub/social_media_tool)
 
-## 📫 Contact
+### Freelance Manager
+JavaFX desktop app for managing clients, projects, tasks, users, KPIs, budgets, charts, and CSV exports.
+
+[Repository](https://github.com/HichamxMahboub/freelance_manager)
+
+## Internship Focus
+
+I'm currently looking for an internship where I can contribute to:
+
+- Full-stack development
+- Backend API development
+- Dashboard and admin panel development
+- Digital transformation projects
+
+## Contact
 
 - GitHub: [HichamxMahboub](https://github.com/HichamxMahboub)
-- Portfolio: Coming soon
+- Portfolio: [portfolio-prbrwhomy-hichamxmahboubs-projects.vercel.app](https://portfolio-prbrwhomy-hichamxmahboubs-projects.vercel.app)
 - LinkedIn: [Hicham Mahboub](https://www.linkedin.com/in/hicham-mahboub-b590082b1/)
