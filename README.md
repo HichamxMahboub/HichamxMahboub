@@ -51,7 +51,7 @@ Laravel platform developed during a professional internship to support school tr
 ### Portfolio
 Personal portfolio presenting my profile, projects, CV, and contact information for internship opportunities.
 
-[Portfolio](https://www.hichammahboub.live/en) · [Repository](https://github.com/HichamxMahboub/hicham-mahboub-portfolio)
+[Portfolio](https://www.hichammahboub.live/en)
 
 ## Contact
 
