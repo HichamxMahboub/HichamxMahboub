@@ -34,7 +34,7 @@ Professional marketplace backend built with .NET 8, ASP.NET Core Web API, EF Cor
 [Repository](https://github.com/HichamxMahboub/marketplace-hub)
 
 ### SmartSim Analytics - Simulation Data Platform
-Full-stack analytics platform for MATLAB/Simulink-style exported datasets. React dashboard, Node/Express API, MongoDB persistence, Python analytics, KPIs, anomaly detection, trend analysis, and PDF reporting.
+Full-stack analytics platform for MATLAB/Simulink-style exported datasets. React dashboard, Node/Express API, MongoDB persistence, Python analytics, KPIs, anomaly detection, trend analysis, PDF reporting, and a Power BI reporting extension.
 
 [Repository](https://github.com/HichamxMahboub/SmartSim-Analytics)
 
@@ -51,7 +51,7 @@ Laravel platform developed during a professional internship to support school tr
 ### Portfolio
 Personal portfolio presenting my profile, projects, CV, and contact information for internship opportunities.
 
-[Portfolio](https://www.hichammahboub.live/en)
+[Portfolio](https://www.hichammahboub.live/en) · [Repository](https://github.com/HichamxMahboub/hicham-mahboub-portfolio)
 
 ## Contact
 
