@@ -1,36 +1,44 @@
 <div align="center">
   <h1>Hi, I’m Hicham Mahboub 👋</h1>
-  <p><strong>Information Systems & Digital Transformation Engineering Student</strong></p>
-  <p>Full-Stack Development · Backend Engineering · DevOps</p>
+  <h3>Full-Stack & DevOps Engineering Student</h3>
+  <p>I build practical software that turns manual workflows and scattered data into clear, reliable products.</p>
   <p>
-    <a href="https://www.hichammahboub.live/en"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/hicham-mahboub-b590082b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.hichammahboub.live/en"><img src="https://img.shields.io/badge/Portfolio-View_my_work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/hicham-mahboub-b590082b1/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.hichammahboub.live/en/contact"><img src="https://img.shields.io/badge/Open_to-PFE_%26_software_roles-16A34A?style=for-the-badge" alt="Open to PFE and software roles" /></a>
   </p>
 </div>
 
 ## About me
 
-I study engineering at **ESI Rabat** and build practical software for real operational needs. My work turns fragmented or manual workflows into maintainable products: multi-role platforms, REST APIs, dashboards, reports, mobile clients, and deployment-ready services.
+I’m an Information Systems and Digital Transformation engineering student at **ESI Rabat**. I work across backend, web, mobile, data, and delivery, with a strong focus on **Java/Spring Boot**, **React/Next.js**, **TypeScript**, APIs, databases, Docker, and CI/CD.
 
-- **Core focus:** Java/Spring Boot, React/Next.js, TypeScript, .NET, REST APIs, and data-driven applications
-- **Engineering approach:** clear architecture, role-aware security, useful documentation, testing, CI, and containers
-- **Product mindset:** start with the user and business problem, then choose the right technical solution
-- **Current goal:** a final-year internship/PFE or junior software engineering opportunity
+My approach is simple: understand the real user or business problem first, then build the smallest maintainable system that solves it well.
 
-## What I’m building now
+- 📍 Based in Morocco
+- 🎯 Looking for a **PFE/final-year internship** or a **junior software engineering role**
+- 🧩 Interested in backend engineering, full-stack products, DevOps, dashboards, and workflow automation
+- 🤝 Comfortable working in team repositories with API contracts, documentation, Pull Requests, and shared conventions
 
-**RiLyMed** is a team-built recruitment platform for medical and dental professionals. I contribute to its backend foundation and DevOps coordination: Java 21, Spring Boot, OpenAPI, RBAC, PostgreSQL, Redis, Docker, GitHub Actions, security documentation, and monorepo collaboration conventions.
+## Selected work
 
-## Selected projects
-
-| Project | Product value | Main technologies |
+| Project | What it solves | Engineering proof |
 |---|---|---|
-| [Interlance](https://github.com/HichamxMahboub/Smart-Internship---Freelance-Matching-Platform) | Unifies offers, applications, company validation, notifications, and matching for candidates, recruiters, and administrators. | Spring Boot, Angular, React Native, MongoDB, Docker |
-| [MarketHub](https://github.com/HichamxMahboub/marketplace-hub) | A multi-vendor marketplace API with customer checkout, vendor operations, admin oversight, JWT security, and seeded demos. | .NET 8, ASP.NET Core, EF Core, PostgreSQL, xUnit, Docker |
-| [EduTrack Al Amal](https://github.com/HichamxMahboub/edutrack-al-amal) | Digitalizes school records, grades, dashboards, PDF reports, messaging, and import/export for an association. | Laravel, PHP, SQLite, Tailwind CSS, Chart.js |
-| [Freelance Manager](https://github.com/HichamxMahboub/freelance_manager) | A desktop workspace for managing clients, projects, tasks, users, KPIs, charts, and CSV exports. | Java, JavaFX, PostgreSQL, Maven |
-| [Portfolio](https://github.com/HichamxMahboub/hicham-mahboub-portfolio) · [Live site](https://www.hichammahboub.live/en) | An editorial portfolio presenting projects and engineering decisions through an accessible, motion-rich experience. | Next.js 16, React 19, TypeScript, Tailwind CSS, GSAP |
+| [**Interlance**](https://github.com/HichamxMahboub/Smart-Internship---Freelance-Matching-Platform) | Brings internship and freelance offers, applications, company validation, notifications, and matching into one multi-role platform. | Spring Boot, Angular, React Native, MongoDB, Docker, OpenAPI |
+| [**EduTrack Al Amal**](https://github.com/HichamxMahboub/edutrack-al-amal) | Replaces fragmented school records with student tracking, grades, dashboards, PDF reports, messaging, and import/export workflows. | Laravel 12, SQLite, Tailwind CSS, Chart.js, Excel/PDF reporting |
+| [**Freelance Manager**](https://github.com/HichamxMahboub/freelance_manager) | Helps freelancers manage clients, projects, tasks, users, KPIs, charts, and CSV exports from one desktop workspace. | Java 17, JavaFX, PostgreSQL, Maven, layered architecture |
+| **RiLyMed** · team project | Builds the technical foundation for a web and mobile recruitment platform for medical and dental professionals. | Java 21, Spring Boot, PostgreSQL, Redis, OpenAPI, Docker, GitHub Actions |
+| [**Portfolio & case studies**](https://www.hichammahboub.live/en) | Explains the problems, decisions, and product value behind my engineering work—not just the technology used. | Next.js 16, React 19, TypeScript, Tailwind CSS, GSAP |
+
+## What I’m working on now
+
+On **RiLyMed**, I contribute to the backend foundation and DevOps coordination. The current work includes:
+
+- contract-first REST APIs and OpenAPI documentation;
+- PostgreSQL data architecture and Redis-ready infrastructure;
+- RBAC rules, security requirements, and negative authorization tests;
+- Docker-based local environments and GitHub Actions validation;
+- Git conventions, onboarding documentation, and cross-team coordination.
 
 ## Engineering toolbox
 
@@ -38,9 +46,9 @@ I study engineering at **ESI Rabat** and build practical software for real opera
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 
 **Web & mobile**
@@ -56,19 +64,19 @@ I study engineering at **ESI Rabat** and build practical software for real opera
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
 
 ## What I bring to a team
 
-- Backend foundations with clear domains, APIs, validation, and authorization boundaries
-- Full-stack delivery across web, mobile, databases, dashboards, exports, and reporting
-- Reproducible local environments with Docker and automated checks with GitHub Actions
-- Documentation that helps teammates, reviewers, and non-technical stakeholders understand the system
+- Backend foundations with clear domains, validation, API contracts, and authorization boundaries
+- End-to-end delivery across interfaces, databases, dashboards, exports, and reports
+- Reproducible development environments with Docker and automated checks
+- Documentation that helps both technical teammates and non-technical stakeholders
 - A generalist mindset focused on business value, maintainability, and measurable improvement
 
-## Let’s connect
+## Let’s build something useful
 
-Review the full case studies on my [portfolio](https://www.hichammahboub.live/en), connect with me on [LinkedIn](https://www.linkedin.com/in/hicham-mahboub-b590082b1/), or reach me through my [contact page](https://www.hichammahboub.live/en/contact).
+Explore my [project case studies](https://www.hichammahboub.live/en), connect with me on [LinkedIn](https://www.linkedin.com/in/hicham-mahboub-b590082b1/), or send me a message through my [contact page](https://www.hichammahboub.live/en/contact).
